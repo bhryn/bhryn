@@ -9,4 +9,4 @@
 - [x] Publish the real email (BHRYPN@gmail.com) and LinkedIn group link on the Contact page.
 - [x] Build the newsletter sign-up form and store sign-ups in Lovable Cloud.
 - [x] Rename Programming to Speaker Series and show five Leadership Board seats.
-- [ ] Add the newsletter sign-up to the home page and change the hero button to Contact us.
+- [x] Add the newsletter sign-up to the home page and change the hero button to Contact us.
