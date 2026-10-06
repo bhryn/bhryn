@@ -4,3 +4,9 @@
 - [x] Verify navigation, mobile presentation and page metadata.
 - [x] Match the supplied indigo/blue colour reference and BHR logo, title and subtitle.
 - [x] Remove slogan-like copy and use a plain Sign up call to action; check the updated pages.
+- [x] Say "us" instead of "the network" across all copy.
+- [x] Swap in the higher-res BHR logo and refresh the favicon.
+- [x] Publish the real email (BHRYPN@gmail.com) and LinkedIn group link on the Contact page.
+- [x] Build the newsletter sign-up form and store sign-ups in Lovable Cloud.
+- [x] Rename Programming to Speaker Series and show five Leadership Board seats.
+- [x] Add the newsletter sign-up to the home page and change the hero button to Contact us.
