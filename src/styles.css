@@ -21,7 +21,7 @@
  --secondary: oklch(0.4 0.11 279); --card: oklch(0.4 0.11 279);
  --muted-foreground: oklch(0.89 0.025 275); --border: oklch(0.99 0.002 270 / .2);
  --destructive: oklch(0.7 0.18 25); --glass: oklch(0.99 0.002 270 / .07);
- --header-background: oklch(0.99 0.002 270); --header-foreground: oklch(0.35 0.1 275);
+ --header-background: #ffffff; --header-foreground: oklch(0.35 0.1 275);
  --brand-gradient: linear-gradient(135deg, var(--primary), var(--accent));
  --pane-gradient: linear-gradient(180deg, oklch(0.54 0.245 265 / .18), oklch(0.68 0.13 275 / .08));
 }
