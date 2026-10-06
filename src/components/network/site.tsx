@@ -2,6 +2,7 @@ import { Link } from '@tanstack/react-router';
 import { useState } from 'react';
 import { Menu, X, ArrowUpRight } from 'lucide-react';
 import { Button } from '@/components/ui/button';
+import { NewsletterForm } from '@/components/network/newsletter';
 import logo from '@/assets/bhr-logo.png.asset.json';
 
 export function SiteHeader() {
