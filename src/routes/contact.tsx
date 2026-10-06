@@ -32,7 +32,7 @@ function Contact() {
       .from('newsletter_subscribers')
       .insert({ email: value });
     if (error) {
-      if (error.code === '23505') {
+      if (error.code === '23505' || /duplicate|already/i.test(error.message)) {
         setStatus('done');
         setNote("You're already on the list.");
         return;
